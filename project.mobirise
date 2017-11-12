@@ -624,16 +624,16 @@
           ],
           "title1": "",
           "subtitle1": "<b><i><a href=\"index.html\" class=\"text-danger\">Back To Home Page</a></i></b>",
-          "caption1": "Bob Smith<br>President<br>407-123-4567<br>bobsmith@smith.com<br>",
+          "caption1": "Bob Smith<br>President<br><b>407-123-4567</b><br>bobsmith@smith.com<br>",
           "title2": "",
           "subtitle2": "<a href=\"index.html\" class=\"text-danger\"><b><i>Back To Home Page</i></b></a>",
-          "caption2": "Betty White<br>Vice-President<br>407-123-4567<br>bettywhite@smith.com",
+          "caption2": "Betty White<br>Vice-President<br><b>407-123-4567</b><br>bettywhite@smith.com",
           "title3": "Board Member",
           "subtitle3": "<a href=\"index.html\" class=\"text-danger\"><b><i>Back To Home Page</i></b></a>",
-          "caption3": "Jane Monroe<br>Secretary<br>&nbsp;407-123-4567&nbsp;<br>janemonroe@smith.com",
+          "caption3": "Jane Monroe<br>Secretary<br><b>&nbsp;407-123-4567&nbsp;</b><br>janemonroe@smith.com",
           "title4": "Board Member",
           "subtitle4": "<a href=\"index.html\" class=\"text-danger\"><b><i>Back To Home Page</i></b></a>",
-          "caption4": "Bill Brownshoe<br>Treasurer<br>407-123-4567<br>billbrownshoe@smith.com",
+          "caption4": "Bill Brownshoe<br>Treasurer<br><b>407-123-4567</b><br>billbrownshoe@smith.com",
           "title5": "Board Member",
           "subtitle5": "<a href=\"index.html\" class=\"text-danger\"><b><i>Back To Home Page</i></b></a>",
           "caption5": "Bobby More<br>Board Member<br>407-123-4567<br>bobbymore@smith.com",
@@ -652,7 +652,8 @@
             "P": {
               "text-align": "center",
               "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "color": "#000000"
             },
             "H4": {
               "font-family": "'Oswald', sans-serif",
