@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "krazydawgapps test site",
-    "currentPage": "bodpage.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -464,7 +464,7 @@
             "bgColor": "#fff"
           },
           "title": "<br>Fine Committee Coming Soon",
-          "meta": "If you are interested in serving your community on the Fineing Committee, please contact the <a href=\"samplepage.html\" class=\"text-danger\"><b>President</b></a> of the Association.",
+          "meta": "If you are interested in serving your community on the Fineing Committee, please contact the <a href=\"bodpage.html\" class=\"text-danger\"><b>President</b></a> of the Association.",
           "_tags": [
             "Theme"
           ],
