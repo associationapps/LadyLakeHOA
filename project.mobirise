@@ -492,11 +492,11 @@
           "_params": {
             "showMeta": true,
             "paddingTop": "5",
-            "paddingBottom": 1,
+            "paddingBottom": "0",
             "bgColor": "#000080"
           },
           "title": "Board Members",
-          "meta": "By KrazyDawg Apps",
+          "meta": "",
           "_tags": [
             "Theme"
           ],
@@ -505,11 +505,11 @@
         },
         {
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#c1c1c1"
           },
-          "text": "<p>Welcome to your Board of Directors' home page.  Don't forget to visit our manageme<a href=\"http://greatcommunities.com\"></a>nt company, Specialty Managment Company at <a href=\"http://www.greatcommunities.com\">greatcommunities.com</a>  We hope you enjoy our little app.  We made it just for you.  You can even pay your dues from this app.  <a href=\"http://www.greatcommunities.com/SMC_Corporate_Website/Pay_Your_Dues.html\">Click To Pay</a> .\n</p><p></p><p></p><p>\n\n&nbsp;</p>",
+          "text": "<p>Welcome to your Board of Directors' page.  Don't forget to visit our manageme<a href=\"http://greatcommunities.com\"></a>nt company, Specialty Managment Company at <a href=\"http://www.greatcommunities.com\">greatcommunities.com</a>  We hope you enjoy our little app.  We made it just for you.  You can even pay your dues from this app.  <a href=\"http://www.greatcommunities.com/SMC_Corporate_Website/Pay_Your_Dues.html\">Click To Pay</a> .\n</p><p></p><p></p><p>\n\n&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
