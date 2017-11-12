@@ -568,6 +568,13 @@ h6,
 #content1-3u P {
   font-family: 'Bitter', serif;
 }
+#header3-45 .mbr-section-title,
+#header3-45 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-45 .mbr-section-title {
+  color: #ffffff;
+}
 #features6-3t P {
   text-align: center;
   font-family: 'Oswald', sans-serif;

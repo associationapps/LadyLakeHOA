@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "krazydawgapps test site",
-    "currentPage": "page4.html",
+    "currentPage": "samplepage.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 149,
+    "uniqCompNum": 150,
     "versionPublish": "4.3.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -397,10 +397,33 @@
           }
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#000080"
+          },
+          "title": "Board Members",
+          "meta": "By KrazyDawg Apps",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-45"
+        },
+        {
           "_inherit": "features3",
           "_params": {
             "showImages": true,
-            "showTitles": true,
+            "showTitles": false,
             "showSubtitles": true,
             "ShowTexts": true,
             "showButtons": true,
@@ -424,11 +447,11 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "users",
-              "family": "mobirise-icons-bold",
+              "name": "like",
+              "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
-              "size": "",
+              "size": "25",
               "color": "#000080"
             }
           },
@@ -436,11 +459,11 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "users",
+              "name": "like",
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
-              "size": "",
+              "size": "25",
               "color": "#000080"
             }
           },
@@ -448,11 +471,11 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "users",
+              "name": "like",
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
-              "size": "",
+              "size": "25",
               "color": "#000080"
             }
           },
@@ -460,11 +483,11 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "users",
+              "name": "like",
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
-              "size": "",
+              "size": "25",
               "color": "#000080"
             }
           },
@@ -472,11 +495,11 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "users",
-              "family": "mobirise-icons-bold",
+              "name": "like",
+              "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
-              "size": 0,
+              "size": "25",
               "color": "#000080"
             }
           },
@@ -484,11 +507,11 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features3",
               "linkInNewWindow": false,
-              "name": "users",
+              "name": "like",
               "family": "MobiriseIcons",
               "active": true,
               "link": "http://greatcommunities.com",
-              "size": 0,
+              "size": "25",
               "color": "#000080",
               "newWindow": false
             }
@@ -496,10 +519,10 @@
           "_tags": [
             "Theme"
           ],
-          "title1": "Board Member",
+          "title1": "",
           "subtitle1": "<b><i><a href=\"index.html\" class=\"text-danger\">Back To Home Page</a></i></b>",
           "caption1": "Bob Smith<br>President<br>407-123-4567<br>bobsmith@smith.com<br>",
-          "title2": "Board Member",
+          "title2": "",
           "subtitle2": "<a href=\"index.html\" class=\"text-danger\"><b><i>Back To Home Page</i></b></a>",
           "caption2": "Betty White<br>Vice-President<br>407-123-4567<br>bettywhite@smith.com",
           "title3": "Board Member",
@@ -515,11 +538,11 @@
           "subtitle6": "<a href=\"index.html\" class=\"text-danger\"><b><i>Back To Home Page</i></b></a>",
           "caption6": "Jimmy Jones<br>Board Member<br>407-123-4567<br>jimmyjones@smith.com",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">Email Bob</a> ",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">Email Betty</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">Email Jane</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">Email Bill</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">Email Bobby</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">Email Jimmy</a>",
           "_name": "features6",
           "_anchor": "features6-3t",
           "_styles": {
