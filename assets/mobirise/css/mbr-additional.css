@@ -642,9 +642,6 @@ h6,
 #header3-45 .mbr-section-title {
   color: #ffffff;
 }
-#content1-3u P {
-  font-family: 'Bitter', serif;
-}
 #features6-3t P {
   text-align: center;
   font-family: 'Oswald', sans-serif;
@@ -658,6 +655,9 @@ h6,
 }
 #features6-3t H5 {
   color: #ff0000;
+}
+#content1-3u P {
+  font-family: 'Bitter', serif;
 }
 #ext_menu-3z .hide-buttons .nav-btn {
   display: none !important;
