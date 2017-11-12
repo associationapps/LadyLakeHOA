@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "krazydawgapps test site",
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -751,11 +751,11 @@
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": "6",
+            "paddingTop": "7",
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "title": "Fine Committee Comming Soon",
+          "title": "<br>Fine Committee Comming Soon",
           "meta": "If you are interested in serving your community on the Fineing Committee, please contact the <a href=\"samplepage.html\" class=\"text-danger\"><b>President</b></a> of the Association.",
           "_tags": [
             "Theme"
