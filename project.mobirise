@@ -928,7 +928,7 @@
           "_params": {
             "showMeta": false,
             "paddingTop": "0",
-            "paddingBottom": "6",
+            "paddingBottom": "7",
             "bgColor": "#ff0000"
           },
           "title": "<a href=\"index.html\" class=\"text-success\">Back To Home Page</a>",
