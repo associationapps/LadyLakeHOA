@@ -679,7 +679,7 @@
           "_params": {
             "showImages": false,
             "showTitles": false,
-            "showSubtitles": true,
+            "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": true,
             "paddingTop": "0",
@@ -928,7 +928,7 @@
           "_params": {
             "showMeta": false,
             "paddingTop": "0",
-            "paddingBottom": "4",
+            "paddingBottom": "6",
             "bgColor": "#ff0000"
           },
           "title": "<a href=\"index.html\" class=\"text-success\">Back To Home Page</a>",
