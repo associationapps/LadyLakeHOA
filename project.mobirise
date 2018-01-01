@@ -1,21 +1,21 @@
 {
   "settings": {
     "name": "krazydawgapps test site",
-    "currentPage": "index.html",
+    "currentPage": "bodpage.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
         "primaryColor": "#ffffff",
         "secondaryColor": "#00a885",
-        "successColor": "#ffffff",
+        "successColor": "#000080",
         "infoColor": "#c1c1c1",
         "warningColor": "#000000",
         "dangerColor": "#ff0000",
         "titleFont": "Oswald",
         "subtitleFont": "Oswald",
         "textFont": "Indie Flower",
-        "isRoundedButtons": true,
+        "isRoundedButtons": false,
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false,
         "isRtl": false
@@ -669,7 +669,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#ffffff",
+            "bgColor": "#ff0000",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -756,22 +756,22 @@
           ],
           "title1": "",
           "subtitle1": "<b><i><a href=\"index.html\" class=\"text-danger\">Back To Home Page</a></i></b>",
-          "caption1": "Bob Smith<br>President<br><b><a href=\"tel:+1-407-797-7078\">407-797-7078</a></b><br>bobsmith@smith.com<br>",
+          "caption1": "Bob Smith<br>President<br><b><a href=\"tel:+1-407-797-7078\" class=\"text-success\">407-797-7078</a></b><br>bobsmith@smith.com<br>",
           "title2": "",
           "subtitle2": "<a href=\"index.html\" class=\"text-danger\"><b><i>Back To Home Page</i></b></a>",
-          "caption2": "Betty White<br>Vice-President<br><b><a href=\"tel:+1-407-123-4567\">407-123-4567</a></b><br>bettywhite@smith.com",
+          "caption2": "Betty White<br>Vice-President<br><b><a href=\"tel:+1-407-123-4567\" class=\"text-success\">407-123-4567</a></b><br>bettywhite@smith.com",
           "title3": "Board Member",
           "subtitle3": "<a href=\"index.html\" class=\"text-danger\"><b><i>Back To Home Page</i></b></a>",
-          "caption3": "Jane Monroe<br>Secretary<br><b>&nbsp;407-123-4567&nbsp;</b><br>janemonroe@smith.com",
+          "caption3": "Jane Monroe<br>Secretary<br><b>&nbsp;<a href=\"tel:+1-407-123-4567 \" class=\"text-success\">407-123-4567&nbsp;</a></b><br>janemonroe@smith.com",
           "title4": "Board Member",
           "subtitle4": "<a href=\"index.html\" class=\"text-danger\"><b><i>Back To Home Page</i></b></a>",
           "caption4": "Bill Brownshoe<br>Treasurer<br><b>407-123-4567</b><br>billbrownshoe@smith.com",
           "title5": "Board Member",
           "subtitle5": "<a href=\"index.html\" class=\"text-danger\"><b><i>Back To Home Page</i></b></a>",
-          "caption5": "Bobby More<br>Board Member<br>407-123-4567<br>bobbymore@smith.com",
+          "caption5": "Bobby More<br>Board Member<br><b>407-123-4567</b><br>bobbymore@smith.com",
           "title6": "Board Member",
           "subtitle6": "<a href=\"index.html\" class=\"text-danger\"><b><i>Back To Home Page</i></b></a>",
-          "caption6": "Jimmy Jones<br>Board Member<br>407-123-4567<br>jimmyjones@smith.com",
+          "caption6": "Jimmy Jones<br>Board Member<br><b>407-123-4567</b><br>jimmyjones@smith.com",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">Email Bob</a> ",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">Email Betty</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">Email Jane</a>",
@@ -785,7 +785,7 @@
               "text-align": "center",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "color": "#000000"
+              "color": "#000080"
             },
             "H4": {
               "font-family": "'Oswald', sans-serif",
@@ -797,6 +797,9 @@
             },
             "H5": {
               "color": "#ff0000"
+            },
+            "B": {
+              "color": "#000080"
             }
           }
         },
@@ -804,7 +807,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#c1c1c1"
+            "bgColor": "#ff0000"
           },
           "text": "<p>Welcome to your Board of Directors' page.  Don't forget to visit our manageme<a href=\"http://greatcommunities.com\"></a>nt company, Specialty Managment Company at <a href=\"http://www.greatcommunities.com\">greatcommunities.com</a>  We hope you enjoy our little app.  We made it just for you.  You can even pay your dues from this app.  <a href=\"http://www.greatcommunities.com/SMC_Corporate_Website/Pay_Your_Dues.html\">Click To Pay</a> .\n</p><p></p><p></p><p>\n\n&nbsp;</p>",
           "_tags": [
