@@ -649,6 +649,10 @@ h6,
 #header3-45 .mbr-section-title {
   color: #ffffff;
 }
+#content1-3u P {
+  font-family: 'Bitter', serif;
+  color: #000080;
+}
 #features6-3t P {
   text-align: center;
   font-family: 'Oswald', sans-serif;
@@ -664,10 +668,6 @@ h6,
   color: #ff0000;
 }
 #features6-3t B {
-  color: #000080;
-}
-#content1-3u P {
-  font-family: 'Bitter', serif;
   color: #000080;
 }
 #ext_menu-3z .hide-buttons .nav-btn {
@@ -689,11 +689,11 @@ h6,
   font-family: 'Roboto', sans-serif;
 }
 #ext_menu-3z .link {
-  font-size: 0.75rem;
+  font-size: 0.6rem;
 }
 #ext_menu-3z .dropdown-item,
 #ext_menu-3z .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.650rem;
 }
 #ext_menu-3z .link:hover,
 #ext_menu-3z .dropdown-item:hover,
