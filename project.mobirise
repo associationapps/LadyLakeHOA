@@ -678,7 +678,7 @@
           "_inherit": "features3",
           "_params": {
             "showImages": false,
-            "showTitles": true,
+            "showTitles": false,
             "showSubtitles": true,
             "ShowTexts": true,
             "showButtons": true,
