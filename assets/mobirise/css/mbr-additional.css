@@ -740,6 +740,13 @@ h6,
   color: #000080;
   font-size: 20px;
 }
+#header3-4e .mbr-section-title,
+#header3-4e .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-4e .mbr-section-title {
+  color: #000080;
+}
 #content1-1q P {
   color: #ffffff;
 }

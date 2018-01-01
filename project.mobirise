@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 158,
+    "uniqCompNum": 159,
     "versionPublish": "4.5.4",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -938,6 +938,29 @@
           ],
           "_name": "header3",
           "_anchor": "header3-4d"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#000080"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "1",
+            "paddingBottom": "7",
+            "bgColor": "#ff0000"
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-4e"
         }
       ]
     },
