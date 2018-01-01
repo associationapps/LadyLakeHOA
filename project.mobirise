@@ -681,7 +681,7 @@
             "showTitles": false,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": false,
+            "showButtons": true,
             "paddingTop": "0",
             "paddingBottom": "0",
             "columns": "6",
