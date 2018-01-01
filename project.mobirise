@@ -660,7 +660,7 @@
             "paddingBottom": "0",
             "bgColor": "#ff0000"
           },
-          "text": "<p>Welcome to your Board of Directors' page.  Don't forget to visit our manageme<a href=\"http://greatcommunities.com\"></a>nt company, Specialty Managment Company at <a href=\"http://www.greatcommunities.com\" class=\"text-success\">greatcommunities.com</a>  We hope you enjoy our little app.  We made it just for you.  You can even pay your dues from this app. &nbsp;&nbsp;<a href=\"http://www.greatcommunities.com/SMC_Corporate_Website/Pay_Your_Dues.html\" class=\"text-success\">Click To Pay</a> .\n</p><p></p><p></p><p>\n\n&nbsp;</p>",
+          "text": "<p>Welcome to your Board of Directors' page.  Don't forget to visit our manageme<a href=\"http://greatcommunities.com\"></a>nt company, Specialty Managment Company, at <a href=\"http://www.greatcommunities.com\" class=\"text-success\">greatcommunities.com</a>.&nbsp; We hope you enjoy our little app. &nbsp;We made it just for you. &nbsp;You can even pay your dues from this app. &nbsp;&nbsp;<a href=\"http://www.greatcommunities.com/SMC_Corporate_Website/Pay_Your_Dues.html\" class=\"text-success\">Click To Pay</a> .\n</p><p></p><p></p><p>\n\n&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
