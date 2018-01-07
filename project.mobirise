@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "krazydawgapps test site",
-    "currentPage": "index.html",
+    "currentPage": "bodpage.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 169,
+    "uniqCompNum": 170,
     "versionPublish": "4.5.4",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -529,7 +529,7 @@
             "paddingBottom": "0",
             "bgColor": "#ff0000"
           },
-          "text": "<p>Welcome to your Board of Directors' page. &nbsp; Don't forget to visit our manageme<a href=\"http://greatcommunities.com\"></a>nt company, Specialty Managment Company, at <a href=\"http://www.greatcommunities.com\" class=\"text-success\">greatcommunities.com</a>.&nbsp; We hope you enjoy our little app. &nbsp;We made it just for you. &nbsp;You can even pay your dues from this app. &nbsp;&nbsp;<a href=\"http://www.greatcommunities.com/SMC_Corporate_Website/Pay_Your_Dues.html\" class=\"text-success\">Click To Pay</a> .\n</p><p></p><p></p><p>\n\n&nbsp;</p>",
+          "text": "<p>Welcome to your Board of Directors' page. &nbsp; Don't forget to visit our management company, Specialty Managment Company, at <a href=\"http://www.greatcommunities.com\" class=\"text-success\">greatcommunities.com</a>.&nbsp; We hope you enjoy our little app. &nbsp;We made it just for you. &nbsp;You can even pay your dues from this app. &nbsp;&nbsp;<a href=\"http://www.greatcommunities.com/SMC_Corporate_Website/Pay_Your_Dues.html\" class=\"text-success\">Click To Pay</a> .</p><p>\n</p><p></p><p></p><p><b>Got a Question?  Contact your Board.&nbsp;</b></p>",
           "_tags": [
             "Theme"
           ],
@@ -539,7 +539,7 @@
             "P": {
               "font-family": "'Bitter', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
-              "color": "#000080"
+              "color": "#ffffff"
             }
           }
         },
