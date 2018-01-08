@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "krazydawgapps test site",
-    "currentPage": "index.html",
+    "currentPage": "bodpage.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -527,7 +527,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#ff0000"
+            "bgColor": "#b8312f"
           },
           "text": "<p>Welcome to your Board of Directors' page. &nbsp; Don't forget to visit our management company, Specialty Managment Company, at <a href=\"http://www.greatcommunities.com\" class=\"text-success\">greatcommunities.com</a>.&nbsp; We hope you enjoy our little app. &nbsp;We made it just for you. &nbsp;You can even pay your dues from this app. &nbsp;&nbsp;<a href=\"http://www.greatcommunities.com/SMC_Corporate_Website/Pay_Your_Dues.html\" class=\"text-success\">Click To Pay</a> .</p><p>\n</p><p></p><p></p><p><b>Got a Question?  Contact your Board.&nbsp;</b></p>",
           "_tags": [
@@ -797,7 +797,7 @@
             "showMeta": false,
             "paddingTop": "1",
             "paddingBottom": "7",
-            "bgColor": "#ff0000"
+            "bgColor": "#e25041"
           },
           "title": "",
           "meta": "By John Smith posted July 20, 2016",
