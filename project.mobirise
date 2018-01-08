@@ -83,7 +83,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-0413x12-1200x1936.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-0413x12-1200x1000.png",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
