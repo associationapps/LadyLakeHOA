@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "krazydawgapps test site",
-    "currentPage": "bodpage.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -11,7 +11,7 @@
         "successColor": "#000080",
         "infoColor": "#c1c1c1",
         "warningColor": "#000000",
-        "dangerColor": "#ff0000",
+        "dangerColor": "#b8312f",
         "titleFont": "Oswald",
         "subtitleFont": "Oswald",
         "textFont": "Indie Flower",
@@ -111,13 +111,13 @@
               "font-size": "25px"
             },
             ".navbar-toggler": {
-              "color": "#ff0000"
+              "color": "#b8312f"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ff0000"
+              "background-color": "#b8312f"
             },
             ".link, .dropdown-item": {
-              "color": "#ff0000",
+              "color": "#b8312f",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-family": "'Oswald', sans-serif"
             },
@@ -140,7 +140,7 @@
               "background": "#0404f8"
             },
             ".bg-color.transparent .link": {
-              "color": "#ff0000",
+              "color": "#b8312f",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -172,7 +172,7 @@
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "css": "'Oswald', sans-serif"
             },
-            "fontColor": "#ff0000",
+            "fontColor": "#b8312f",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -442,7 +442,7 @@
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "css": "'Oswald', sans-serif"
             },
-            "fontColor": "#ff0000",
+            "fontColor": "#b8312f",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
@@ -935,7 +935,7 @@
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "css": "'Oswald', sans-serif"
             },
-            "fontColor": "#ff0000",
+            "fontColor": "#b8312f",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"samplepage.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">BOARDS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"bodpage.html\" aria-expanded=\"false\">Board of Directors</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Architectural_Committee.html\" aria-expanded=\"false\">ARC/ARB Committee</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Architectural Committee.html\" aria-expanded=\"false\">Fine Committee</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://mobirise.com/\">HOME</a></li>",
@@ -1046,7 +1046,7 @@
               "url": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "css": "'Oswald', sans-serif"
             },
-            "fontColor": "#ff0000",
+            "fontColor": "#b8312f",
             "fontHoverColor": "@primaryColor"
           },
           "logo": {
