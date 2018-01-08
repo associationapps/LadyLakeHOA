@@ -860,7 +860,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "showArrow": true,
+            "showArrow": false,
             "imageSize": "48",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
