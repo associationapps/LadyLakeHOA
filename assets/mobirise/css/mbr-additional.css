@@ -737,11 +737,13 @@ h6,
 }
 
 
+
 #header2-4n .mbr-section-title {
   color: #000000;
 }
 #header2-4n .mbr-section-text {
   color: #000000;
+  font-family: 'Oswald', sans-serif;
 }
 #menu-4i .hide-buttons .nav-btn {
   display: none !important;
