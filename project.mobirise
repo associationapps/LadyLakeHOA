@@ -698,7 +698,7 @@
           "caption5": "Bobby More<br>Board Member<br><b><a href=\"tel:+1-407-927-5207\" class=\"text-warning\">407-927-5207</a></b><br>bobbymore@smith.com",
           "title6": "Board Member",
           "subtitle6": "<a href=\"index.html\" class=\"text-danger\"><b><i>Back To Home Page</i></b></a>",
-          "caption6": "Jimmy Jones<br>Board Member<br><a href=\"tel:+1-407-927-5207\" class=\"text-warning\">407-927-5207</a><br>jimmyjones@smith.com",
+          "caption6": "Jimmy Jones<br>Board Member<br><a href=\"tel:+1-407-927-5207\" class=\"text-warning\"><b>407-927-5207</b></a><br>jimmyjones@smith.com",
           "button1": "<a data-app-btn=\"true\" href=\"mailto:rhall@greatcommunities.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Email Bob</a> ",
           "button2": "<a data-app-btn=\"true\" href=\"tel:+1-407-927-5207\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Email Betty</a>",
           "button3": "<a data-app-btn=\"true\" href=\"mailto:rhall@greatcommunities.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Email Jane</a>",
