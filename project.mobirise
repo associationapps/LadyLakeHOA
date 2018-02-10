@@ -683,13 +683,13 @@
           ],
           "title1": "",
           "subtitle1": "<b><i><a href=\"index.html\" class=\"text-danger\">Back To Home Page</a></i></b>",
-          "caption1": "Bob Smith<br>President<br><b><a href=\"tel:+1-407-927-5207\" class=\"text-success\">407-927-</a>5207</b><br>bobsmith@smith.com<br>",
+          "caption1": "Bob Smith<br>President<br><b><a href=\"tel:+1-407-927-5207\" class=\"text-warning\">407-927-</a>5207</b><br>bobsmith@smith.com<br>",
           "title2": "",
           "subtitle2": "<a href=\"index.html\" class=\"text-danger\"><b><i>Back To Home Page</i></b></a>",
-          "caption2": "Betty White<br>Vice-President<br><b><a href=\"tel:+1-407-123-4567\" class=\"text-success\">407-123-4567</a></b><br>bettywhite@smith.com",
+          "caption2": "Betty White<br>Vice-President<br><b><a href=\"tel:+1-407-123-4567\" class=\"text-warning\">407-123-4567</a></b><br>bettywhite@smith.com",
           "title3": "Board Member",
           "subtitle3": "<a href=\"index.html\" class=\"text-danger\"><b><i>Back To Home Page</i></b></a>",
-          "caption3": "Jane Monroe<br>Secretary<br><b>&nbsp;<a href=\"tel:+1-407-123-4567 \" class=\"text-success\">407-123-4567&nbsp;</a></b><br>janemonroe@smith.com",
+          "caption3": "Jane Monroe<br>Secretary<br><b>&nbsp;<a href=\"tel:+1-407-123-4567 \" class=\"text-warning\">407-123-4567&nbsp;</a></b><br>janemonroe@smith.com",
           "title4": "Board Member",
           "subtitle4": "<a href=\"index.html\" class=\"text-danger\"><b><i>Back To Home Page</i></b></a>",
           "caption4": "Bill Brownshoe<br>Treasurer<br><b>407-123-4567</b><br>billbrownshoe@smith.com",
@@ -727,7 +727,7 @@
               "color": "#ff0000"
             },
             "B": {
-              "color": "#000080"
+              "color": "#000000"
             }
           }
         },
