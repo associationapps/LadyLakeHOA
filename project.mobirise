@@ -577,7 +577,8 @@
             "P": {
               "font-family": "'Bitter', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "left"
             }
           }
         },
