@@ -267,7 +267,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#000080",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
@@ -278,12 +278,12 @@
           "form": {
             "action": "associationapps@gmail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for filling out form today!  Please come back."
             },
             "fields": {
               "email": {
                 "title": "Email",
-                "customTitle": "2muchjunkemail@gmail.com"
+                "customTitle": ""
               }
             }
           },
