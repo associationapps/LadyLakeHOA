@@ -236,8 +236,8 @@
             "overlayOpacity": 0.5
           },
           "title": "SUBSCRIBE FORM",
-          "subtitle": "Subscribe to our Newsletter",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBSCRIBE</a>",
+          "subtitle": "Enter Your Email Address Below To Subscribe to our Newsletter",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CLICK TO SUBSCRIBE</a>",
           "form": {
             "action": "associationapps@gmail.com",
             "alerts": {
