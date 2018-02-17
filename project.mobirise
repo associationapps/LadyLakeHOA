@@ -297,7 +297,7 @@
           "_params": {
             "showTitle": true,
             "showSubTitle": true,
-            "labelsColor": "#ffffff",
+            "labelsColor": "#ff0000",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -346,13 +346,13 @@
           "_anchor": "form1-4s",
           "_styles": {
             ".form-control-label": {
-              "color": "#ffffff"
+              "color": "#ff0000"
             },
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#ff0000"
             },
             "SMALL": {
-              "color": "#ffffff"
+              "color": "#ff0000"
             }
           }
         }
