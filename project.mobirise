@@ -533,7 +533,7 @@
           },
           "_params": {
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": false,
             "inverse": true,
             "paddingTop": "0",
@@ -565,7 +565,7 @@
             "showImages": false,
             "showTitles": true,
             "showSubtitles": false,
-            "ShowTexts": false,
+            "ShowTexts": true,
             "showButtons": false,
             "paddingTop": "1",
             "paddingBottom": "0",
@@ -667,6 +667,9 @@
           "_styles": {
             "H4": {
               "color": "#ff0000"
+            },
+            "P": {
+              "text-align": "left"
             }
           }
         },
@@ -742,7 +745,7 @@
             }
           },
           "title1": "ARC INFORMATION",
-          "subtitle1": "<a href=\"assets/files/Company Ad.pdf\" class=\"text-success\">ARC Application</a>",
+          "subtitle1": "ARC Application",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "title2": "",
           "subtitle2": "<br><br>",

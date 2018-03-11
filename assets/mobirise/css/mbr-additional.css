@@ -559,6 +559,9 @@ h6,
 #features3-5h H4 {
   color: #ff0000;
 }
+#features3-5h P {
+  text-align: left;
+}
 #features3-5i H4 {
   color: #ff0000;
   text-align: left;
