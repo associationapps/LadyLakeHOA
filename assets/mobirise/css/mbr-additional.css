@@ -561,9 +561,17 @@ h6,
 }
 #features3-5i H4 {
   color: #ff0000;
-  text-align: right;
+  text-align: left;
 }
 #features3-5i H5 {
+  color: #ff0000;
+  text-align: left;
+}
+#features6-5j H4 {
+  text-align: left;
+  color: #ff0000;
+}
+#features6-5j H5 {
   color: #ff0000;
   text-align: left;
 }
