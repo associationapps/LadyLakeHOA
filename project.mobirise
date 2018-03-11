@@ -8,7 +8,7 @@
       "styling": {
         "primaryColor": "#ffffff",
         "secondaryColor": "#000080",
-        "successColor": "#000080",
+        "successColor": "#ff0000",
         "infoColor": "#c1c1c1",
         "warningColor": "#000000",
         "dangerColor": "#b8312f",
@@ -483,11 +483,11 @@
             "inverse": true,
             "showArrow": true,
             "imageSize": 50,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgColor": "#000080",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -519,7 +519,7 @@
           },
           "title": "DRYFAST <br>systems",
           "text": "Business Development<br>Debbie Morlock<br>Cell 407-927-5207<br>Office 407-927-5207<br>Email cmdebbie@gmail.com<br>Website dryfast.org",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-desktop mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 0, 0);\"></span>Check Our Website Out</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://associationapps.github.io/LadyLakeHOA/\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-desktop mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 0, 0);\"></span>Check Our Website Out</a>",
           "_tags": [
             "Theme"
           ],
@@ -530,6 +530,9 @@
               "text-align": "left",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "SPAN": {
+              "font-size": "30px"
             }
           }
         }

@@ -88,7 +88,7 @@ h6,
   background-color: #ffffff !important;
 }
 .bg-success {
-  background-color: #000080 !important;
+  background-color: #ff0000 !important;
 }
 .bg-info {
   background-color: #c1c1c1 !important;
@@ -160,8 +160,8 @@ h6,
   border-color: #9b9b9b !important;
 }
 .btn-success {
-  background-color: #000080;
-  border-color: #000080;
+  background-color: #ff0000;
+  border-color: #ff0000;
   color: #ffffff;
 }
 .btn-success:hover,
@@ -170,14 +170,14 @@ h6,
 .btn-success:active,
 .btn-success.active {
   color: #ffffff;
-  background-color: #000034;
-  border-color: #000034;
+  background-color: #b30000;
+  border-color: #b30000;
 }
 .btn-success.disabled,
 .btn-success:disabled {
   color: #ffffff !important;
-  background-color: #000034 !important;
-  border-color: #000034 !important;
+  background-color: #b30000 !important;
+  border-color: #b30000 !important;
 }
 .btn-warning {
   background-color: #000000;
@@ -281,8 +281,8 @@ h6,
 }
 .btn-success-outline {
   background: none;
-  border-color: #00001a;
-  color: #00001a;
+  border-color: #990000;
+  color: #990000;
 }
 .btn-success-outline:hover,
 .btn-success-outline:focus,
@@ -290,14 +290,14 @@ h6,
 .btn-success-outline:active,
 .btn-success-outline.active {
   color: #ffffff;
-  background-color: #000080;
-  border-color: #000080;
+  background-color: #ff0000;
+  border-color: #ff0000;
 }
 .btn-success-outline.disabled,
 .btn-success-outline:disabled {
   color: #ffffff !important;
-  background-color: #000080 !important;
-  border-color: #000080 !important;
+  background-color: #ff0000 !important;
+  border-color: #ff0000 !important;
 }
 .btn-warning-outline {
   background: none;
@@ -343,7 +343,7 @@ h6,
   color: #ffffff !important;
 }
 .text-success {
-  color: #000080 !important;
+  color: #ff0000 !important;
 }
 .text-info {
   color: #c1c1c1 !important;
@@ -355,7 +355,7 @@ h6,
   color: #b8312f !important;
 }
 .alert-success {
-  background-color: #000080;
+  background-color: #ff0000;
 }
 .alert-info {
   background-color: #c1c1c1;
@@ -400,7 +400,7 @@ h6,
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
-  color: #0000ff;
+  color: #ffcccc;
 }
 .mbr-plan-header.bg-info .mbr-plan-subtitle,
 .mbr-plan-header.bg-info .mbr-plan-price-desc {
@@ -545,6 +545,9 @@ h6,
 #header2-54 .mbr-section-text {
   text-align: left;
   font-family: 'Oswald', sans-serif;
+}
+#header2-54 SPAN {
+  font-size: 30px;
 }
 
 
