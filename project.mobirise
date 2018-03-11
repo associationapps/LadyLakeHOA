@@ -382,7 +382,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/actual-size-1046x596.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dryfast-original-1045x598.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -399,8 +399,8 @@
               "size": 0
             }
           },
-          "title": "<span style=\"font-weight: normal;\">Performance Roofing</span>",
-          "text": "Gary Kimball Estimator<br>Office 877-544-7174<br>Cell 321-239-1973<br>email <a href=\"mailto:gkimball@performanceroofingUSA.com\">gkimball@performanceroofingUSA.com</a><br>",
+          "title": "DRYFAST<br><span style=\"font-weight: normal;\"><i>systems</i></span>",
+          "text": "Debbie Modrlock <br>Business Development&nbsp;<br>Office <a href=\"tel:+1-407-927-5207\">407-927-5207</a><br>Cell 321-239-1973<br>email <a href=\"mailto:dmorlock@fastsystems.com\">gkimball@performanceroofingUSA.com</a><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -409,7 +409,7 @@
           "_anchor": "msg-box5-51",
           "_styles": {
             "H3": {
-              "color": "#ffffff"
+              "color": "#ff0000"
             },
             "P": {
               "color": "#ffffff",
