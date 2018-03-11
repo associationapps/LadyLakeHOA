@@ -362,7 +362,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "20",
+            "imageSize": "70",
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
@@ -410,7 +410,7 @@
           "_styles": {
             "H3": {
               "color": "#ff0000",
-              "text-align": "center"
+              "text-align": "left"
             },
             "P": {
               "color": "#ffffff",
@@ -481,8 +481,8 @@
             "showText": true,
             "showButtons": true,
             "inverse": true,
-            "showArrow": true,
-            "imageSize": 50,
+            "showArrow": false,
+            "imageSize": "70",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
             "parallax": true,
