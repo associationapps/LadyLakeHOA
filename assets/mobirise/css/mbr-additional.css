@@ -9,6 +9,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -527,9 +528,14 @@ h6,
 #form1-4s SMALL {
   color: #ff0000;
 }
-#header3-4y .mbr-section-title,
-#header3-4y .mbr-section-subtitle {
-  text-align: center;
+#msg-box5-51 H3 {
+  color: #ffffff;
+}
+#msg-box5-51 P {
+  color: #ffffff;
+  text-align: left;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
 }
 
 

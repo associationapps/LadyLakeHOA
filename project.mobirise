@@ -28,7 +28,7 @@
       ]
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 179,
+    "uniqCompNum": 182,
     "versionPublish": "4.6.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -357,24 +357,68 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CLICK TO CONTACT US</a>"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "20",
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/0ffb72b9-eedc-4b10-bb20-06df246550232_n1front-252x144.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#000080",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/actual-size-1046x596.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
             }
           },
+          "title": "Performance Roofing",
+          "text": "Gary Kimball Estimator<br>Office 877-544-7174<br>Cell 321-239-1973<br>email <a href=\"mailto:gkimball@performanceroofingUSA.com\">gkimball@performanceroofingUSA.com</a><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-4y",
-          "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "Title with Solid Background Color",
-          "meta": "By John Smith posted July 20, <a href=\"                        &lt;iframe height=&quot;748&quot;                                 allowTransparency=&quot;true&quot;                                 frameborder=&quot;0&quot;                                 scrolling=&quot;no&quot;                                 style=&quot;width:100%;border:none&quot;                                 src=&quot;https://associationapps.wufoo.com/embed/q6vzn9a08s3d65/&quot;&gt;                           &lt;a href=&quot;https://associationapps.wufoo.com/forms/q6vzn9a08s3d65/&quot;&gt;                             Fill out my Wufoo form!                           &lt;/a&gt;                         &lt;/iframe&gt;                                                   &lt;div id=&quot;wuf-adv&quot; style=&quot;font-family:inherit;font-size: small;color:#a7a7a7;text-align:center;display:block;&quot;&gt;                             &lt;span class=&quot;notranslate&quot;&gt;                               HTML Forms powered by &lt;a href=&quot;http://www.wufoo.com&quot;&gt;Wufoo&lt;/a&gt;.                             &lt;/span&gt;                           &lt;/div&gt;                                               \">2016</a>"
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-51",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff",
+              "text-align": "left",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "14px"
+            }
+          }
         }
       ]
     },
