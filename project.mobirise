@@ -382,7 +382,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/performance-roofing-2000-1400x797.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dryfast-original-2000-1400x800.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -517,14 +517,21 @@
               "size": 250
             }
           },
-          "title": "INTRO WITH IMAGE",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "title": "DRYFAST <br>systems",
+          "text": "Business Development<br>Debbie Morlock<br>Cell 407-927-5207<br>Office 407-927-5207<br>Email cmdebbie@gmail.com<br>Website dryfast.org",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-desktop mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 0, 0);\"></span>Check Our Website Out</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "header2",
-          "_anchor": "header2-54"
+          "_anchor": "header2-54",
+          "_styles": {
+            ".mbr-section-text": {
+              "text-align": "left",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          }
         }
       ]
     },
