@@ -550,7 +550,7 @@
             "showTitle": true,
             "showText": false,
             "showButtons": true,
-            "inverse": true,
+            "inverse": false,
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
