@@ -556,12 +556,16 @@ h6,
 #msg-box2-5f .mbr-section-subtitle {
   color: #a0a0a0;
 }
-#msg-box2-5g .mbr-section-title {
-  color: #fff;
-  font-size: 30px;
+#features3-5h H4 {
+  color: #ff0000;
 }
-#msg-box2-5g .mbr-section-subtitle {
-  color: #a0a0a0;
+#features3-5i H4 {
+  color: #ff0000;
+  text-align: center;
+}
+#features3-5i H5 {
+  color: #ff0000;
+  text-align: left;
 }
 
 
