@@ -369,7 +369,7 @@
             "bgImage": "@PROJECT_PATH@/assets/images/0ffb72b9-eedc-4b10-bb20-06df246550232_n1front-252x144.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#000080",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
