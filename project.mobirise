@@ -809,7 +809,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": false,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#000080",
             "fontSize": "1.4",
             "fontName": {
@@ -1033,7 +1033,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": false,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#000080",
             "fontSize": "1.4",
             "fontName": {
@@ -1582,7 +1582,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": false,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#000080",
             "fontSize": "1.4",
             "fontName": {
@@ -1690,7 +1690,7 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": false,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#000080",
             "fontSize": "1.4",
             "fontName": {
