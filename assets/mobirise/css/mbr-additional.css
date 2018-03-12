@@ -484,6 +484,16 @@ h6,
   color: #ff0000;
   text-align: left;
 }
+#header3-5m .mbr-section-title,
+#header3-5m .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-5m .mbr-section-title {
+  color: #ff0000;
+}
+#header3-5m .mbr-section-subtitle {
+  color: #ff0000;
+}
 #menu-4i .hide-buttons .nav-btn {
   display: none !important;
 }

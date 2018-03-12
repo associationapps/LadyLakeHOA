@@ -29,7 +29,7 @@
       ]
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 202,
+    "uniqCompNum": 203,
     "versionPublish": "4.6.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -749,6 +749,32 @@
               "text-align": "left"
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "color": "#ff0000"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ff0000"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#000080"
+          },
+          "title": "Landscaping Companies",
+          "meta": "Always ask vendors for proof of insurance.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5m"
         },
         {
           "_styles": {
