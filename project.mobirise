@@ -853,9 +853,10 @@
               "src": "@PROJECT_PATH@/assets/images/categories-applications-internet-icon-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "http://greatcommunities.com/SMC_Corporate_Website/Home.html",
               "title": "",
-              "active": true
+              "active": true,
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1196,9 +1197,10 @@
               "src": "@PROJECT_PATH@/assets/images/categories-applications-internet-icon-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "http://greatcommunities.com/SMC_Corporate_Website/Home.html",
               "title": "",
-              "active": true
+              "active": true,
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1746,9 +1748,10 @@
               "src": "@PROJECT_PATH@/assets/images/categories-applications-internet-icon-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "http://greatcommunities.com/SMC_Corporate_Website/Home.html",
               "title": "",
-              "active": true
+              "active": true,
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -1855,9 +1858,10 @@
               "src": "@PROJECT_PATH@/assets/images/categories-applications-internet-icon-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "http://greatcommunities.com/SMC_Corporate_Website/Home.html",
               "title": "",
-              "active": true
+              "active": true,
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -2010,9 +2014,10 @@
               "src": "@PROJECT_PATH@/assets/images/categories-applications-internet-icon-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "http://greatcommunities.com/SMC_Corporate_Website/Home.html",
               "title": "",
-              "active": true
+              "active": true,
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
