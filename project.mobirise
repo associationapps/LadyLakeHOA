@@ -511,7 +511,8 @@
               "color": "#ff0000"
             },
             "P": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#ffffff"
             }
           }
         },
