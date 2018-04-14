@@ -89,7 +89,9 @@
               "color": "#ff0000"
             },
             "SMALL": {
-              "color": "#ff0000"
+              "color": "#ff0000",
+              "font-family": "'Anton', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Anton:400"
             }
           },
           "_anchor": "form1-4s",
@@ -137,15 +139,17 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CLICK TO CONTACT US</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CLICK TO CONTACT US</a>"
         },
         {
           "_styles": {
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#ff0000"
             },
             ".mbr-section-subtitle": {
-              "color": "#ffffff"
+              "color": "#ff0000",
+              "font-family": "'Anton', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Anton:400"
             }
           },
           "_tags": [
@@ -181,7 +185,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CLICK TO SUBSCRIBE</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-success\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CLICK TO SUBSCRIBE</a>"
         },
         {
           "_tags": [
@@ -194,10 +198,10 @@
               "text-align": "left"
             },
             "P": {
-              "color": "#ffffff",
+              "color": "#ff0000",
               "text-align": "left",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Anton', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Anton:400",
               "font-size": "14px"
             },
             "SPAN": {
@@ -248,7 +252,7 @@
             }
           },
           "title": "DRYFAST<br><span style=\"font-weight: normal;\"><i>systems</i></span>",
-          "text": "Debbie Morlock <br>Business Development&nbsp;<br>Office <a href=\"tel:+1-407-927-5207\">407-927-5207</a><br>Cell 321-239-1973<br>email <a href=\"mailto:dmorlock@fastsystems.com\">gkimball@performanceroofingUSA.com</a><br>",
+          "text": "Debbie Morlock <br>Business Development&nbsp;<br>Office <a href=\"tel:+1-407-927-5207\" class=\"text-warning\">407-927-5207</a><br>Cell 321-239-1973<br>email <a href=\"mailto:dmorlock@fastsystems.com\" class=\"text-success\">gkimball@performanceroofingUSA.com</a><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -300,7 +304,17 @@
           },
           "title": "INTRO WITH IMAGE",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ff0000"
+            },
+            ".mbr-section-text": {
+              "color": "#ff0000",
+              "font-family": "'Anton', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Anton:400"
+            }
+          }
         },
         {
           "_tags": [
@@ -310,11 +324,15 @@
           "_styles": {
             ".mbr-section-text": {
               "text-align": "left",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+              "font-family": "'Anton', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Anton:400",
+              "color": "#ff0000"
             },
             "SPAN": {
               "font-size": "30px"
+            },
+            ".mbr-section-title": {
+              "color": "#ff0000"
             }
           },
           "_anchor": "header2-54",
@@ -361,7 +379,7 @@
           },
           "title": "DRYFAST <br>systems",
           "text": "Business Development<br>Debbie Morlock<br>Cell 407-927-5207<br>Office 407-927-5207<br>Email cmdebbie@gmail.com<br>Website dryfast.org",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://associationapps.github.io/LadyLakeHOA/\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-desktop mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 0, 0);\"></span>Check Our Website Out</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"https://associationapps.github.io/LadyLakeHOA/\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-desktop mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>Check Our Website Out</a>"
         },
         {
           "_styles": {
@@ -370,7 +388,9 @@
               "font-size": "30px"
             },
             ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
+              "color": "#ff0000",
+              "font-family": "'Anton', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Anton:400"
             }
           },
           "_tags": [
@@ -413,7 +433,9 @@
             },
             "P": {
               "text-align": "left",
-              "color": "#ffffff"
+              "color": "#ff0000",
+              "font-family": "'Anton', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Anton:400"
             }
           },
           "_anchor": "features3-5h",
@@ -528,7 +550,9 @@
             },
             "H5": {
               "color": "#ff0000",
-              "text-align": "left"
+              "text-align": "left",
+              "font-family": "'Anton', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Anton:400"
             }
           },
           "_anchor": "features3-5i",
@@ -760,7 +784,9 @@
               "color": "#ff0000"
             },
             ".mbr-section-subtitle": {
-              "color": "#ffffff"
+              "color": "#ff0000",
+              "font-family": "'Anton', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Anton:400"
             }
           },
           "_tags": [
@@ -884,12 +910,16 @@
           "_name": "features3",
           "_styles": {
             "P": {
-              "color": "#ffffff",
-              "text-align": "center"
+              "color": "#ff0000",
+              "text-align": "center",
+              "font-family": "'Anton', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Anton:400"
             },
             "H5": {
-              "color": "#ffffff",
-              "text-align": "center"
+              "color": "#ff0000",
+              "text-align": "center",
+              "font-family": "'Anton', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Anton:400"
             },
             "H4": {
               "color": "#ff0000",
@@ -946,7 +976,7 @@
           "title2": "Responsive",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
@@ -958,7 +988,7 @@
           "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
@@ -970,7 +1000,7 @@
           "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -1013,7 +1043,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
+            "bgColor": "#000080",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1022,9 +1052,19 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"assets/files/Sample%20Word%203%20in%20wide%202margin.pdf\" data-toolbar=\"-mbrBtnMove\">SEE LIVE DEMO</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-success\" href=\"assets/files/Sample%20Word%203%20in%20wide%202margin.pdf\" data-toolbar=\"-mbrBtnMove\">SEE LIVE DEMO</a>",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "title": "PRE MADE BLOCKS"
+          "title": "PRE MADE BLOCKS",
+          "_styles": {
+            "H3": {
+              "color": "#ff0000"
+            },
+            "H2": {
+              "color": "#ff0000",
+              "font-family": "'Anton', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Anton:400"
+            }
+          }
         }
       ]
     },
