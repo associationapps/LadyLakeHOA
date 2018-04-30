@@ -30,7 +30,7 @@
     },
     "versionFirst": "3.11.1",
     "uniqCompNum": 208,
-    "versionPublish": "4.6.6",
+    "versionPublish": "4.7.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -479,7 +479,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/desktop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -491,7 +491,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -503,7 +503,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/code-man.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -592,7 +592,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/desktop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -604,7 +604,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -616,7 +616,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/code-man.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -886,18 +886,18 @@
               "alt": "Mobirise",
               "link": "http://greatcommunities.com/SMC_Corporate_Website/Home.html",
               "title": "",
-              "active": true,
               "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "linkInNewWindow": false,
-              "name": "mobirise",
-              "family": "mobirise-icons-bold",
+              "name": "zynga",
+              "family": "socicon",
               "link": "https://greatcommunities.com",
-              "size": 50,
+              "size": "100",
               "color": "#ff0000",
-              "newWindow": false
+              "newWindow": false,
+              "active": true
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Lady Lake Homeowners Association</a>",
@@ -967,7 +967,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"mailto:2muchjunkemail@gmail.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">Email DryFast Systems<br>For A Proposal</a> ",
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/desktop.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -979,7 +979,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/coworkers.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -991,7 +991,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/code-man.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -1270,16 +1270,15 @@
               "alt": "Mobirise",
               "link": "http://greatcommunities.com/SMC_Corporate_Website/Home.html",
               "title": "",
-              "active": true,
               "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "linkInNewWindow": false,
-              "name": "mobirise",
-              "family": "mobirise-icons-bold",
+              "name": "zynga",
+              "family": "socicon",
               "link": "https://greatcommunities.com",
-              "size": 50,
+              "size": "100",
               "color": "#ff0000",
               "active": true,
               "newWindow": false
@@ -1821,16 +1820,15 @@
               "alt": "Mobirise",
               "link": "http://greatcommunities.com/SMC_Corporate_Website/Home.html",
               "title": "",
-              "active": true,
               "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "linkInNewWindow": false,
-              "name": "mobirise",
-              "family": "mobirise-icons-bold",
+              "name": "zynga",
+              "family": "socicon",
               "link": "https://greatcommunities.com",
-              "size": 50,
+              "size": "100",
               "color": "#ff0000",
               "active": true,
               "newWindow": false
@@ -1931,16 +1929,15 @@
               "alt": "Mobirise",
               "link": "http://greatcommunities.com/SMC_Corporate_Website/Home.html",
               "title": "",
-              "active": true,
               "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "linkInNewWindow": false,
-              "name": "mobirise",
-              "family": "mobirise-icons-bold",
+              "name": "zynga",
+              "family": "socicon",
               "link": "https://greatcommunities.com",
-              "size": 50,
+              "size": "100",
               "color": "#ff0000",
               "active": true,
               "newWindow": false
@@ -2091,18 +2088,18 @@
               "alt": "Mobirise",
               "link": "http://greatcommunities.com/SMC_Corporate_Website/Home.html",
               "title": "",
-              "active": true,
               "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "linkInNewWindow": false,
-              "name": "mobirise",
-              "family": "mobirise-icons-bold",
+              "name": "zynga",
+              "family": "socicon",
               "link": "https://greatcommunities.com",
-              "size": 50,
+              "size": "100",
               "color": "#ff0000",
-              "newWindow": false
+              "newWindow": false,
+              "active": true
             }
           },
           "brand": "<a class=\"navbar-caption text-success\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Lady Lake Homeowners Association</a>",
